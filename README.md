@@ -1,1 +1,3 @@
 # SEVEN
+
+#Study Python
